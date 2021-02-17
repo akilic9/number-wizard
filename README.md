@@ -1,3 +1,3 @@
 # number-wizard
 
-Simple number guessing game.
+Number guessing game.
