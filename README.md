@@ -4,6 +4,7 @@ Number guessing game.
 
 2020
 
+To play: https://akilic9.itch.io/numberwizard
 
 ![nw2](https://user-images.githubusercontent.com/68067749/108362966-7350a500-7205-11eb-8451-589952f1abaf.png)
 
